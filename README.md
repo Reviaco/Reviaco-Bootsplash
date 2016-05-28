@@ -1,6 +1,6 @@
-Ozon Plymouth
+Reviaco Bootanimation
 =========
-The Official Plymouth theme for OzonOS.
+The Official Reviaco Bootanimation.
 
 ![initial version screenshot](https://github.com/ozonos/ozon-plymouth/blob/master/preview.png)
 
@@ -9,18 +9,18 @@ The Official Plymouth theme for OzonOS.
 
 ### Installation
 
-- **Move** 'ozonos-plymouth-theme' to `/lib/plymouth/themes`.
+- **Move** 'reviaco-bootanimation' to `/lib/plymouth/themes`.
 
 - Open a terminal and **paste**:
 ```
-sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/ozonos-plymouth-theme/ozonos-plymouth-theme.plymouth 100
+sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/reviaco-bootanimation/reviaco-bootanimation.plymouth 100
 ```
 
 - Then **run**:
  
 `sudo update-alternatives --config default.plymouth`
 
-And **select OzonOS**.
+And **select Reviaco**.
 
 - Finally **paste**:
 
