@@ -1,7 +1,9 @@
 #
 #  Copyright (C) 2014 The OzonOS Project.
 #
-#  Copyright (C) 2013 Canonical Ltd.
+#  Copyright (C) 2013 Canonical Ltd. 
+#
+#  Copyright (C) 2016 Reviaco 
 # 
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -185,13 +187,13 @@ Window.SetBackgroundBottomColor (0.18, 0.20, 0.21);  # an equally nice colour on
 #-----------------------------------------------------------------------------
 bits_per_pixel = Window.GetBitsPerPixel ();
 if (bits_per_pixel == 4) {
-    logo_filename = "ozonos_logo16.png";
+    logo_filename = "reviaco_logo16.png";
     progress_dot_off_filename = "progress_dot_off16.png";
     progress_dot_on_filename = "progress_dot_on16.png";
     password_field_filename = "password_field16.png";
     question_field_filename = "password_field16.png";
 } else {
-    logo_filename = "ozonos_logo.png";
+    logo_filename = "reviaco_logo.png";
     progress_dot_off_filename = "progress_dot_off.png";
     progress_dot_on_filename = "progress_dot_on.png";
     password_field_filename = "password_field.png";
