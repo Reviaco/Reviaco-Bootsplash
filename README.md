@@ -1,6 +1,6 @@
-Reviaco Bootanimation
+Reviaco Bootsplash
 =========
-The Official Reviaco Bootanimation.
+The Official Reviaco Bootsplash
 
 ![initial version screenshot](https://github.com/ozonos/ozon-plymouth/blob/master/preview.png)
 
@@ -9,11 +9,11 @@ The Official Reviaco Bootanimation.
 
 ### Installation
 
-- **Move** 'reviaco-bootanimation' to `/lib/plymouth/themes`.
+- **Move** 'reviaco-bootsplash' to `/lib/plymouth/themes`.
 
 - Open a terminal and **paste**:
 ```
-sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/reviaco-bootanimation/reviaco-bootanimation.plymouth 100
+sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/reviaco-bootsplash/reviaco-bootsplash.plymouth 100
 ```
 
 - Then **run**:
