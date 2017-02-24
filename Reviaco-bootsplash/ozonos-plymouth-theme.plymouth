@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=Ubuntu GNOME Logo
-Description=A theme that features a blue blinds animated background.
-ModuleName=script
-
-[script]
-ImageDir=/lib/plymouth/themes/ozonos-plymouth-theme
-ScriptFile=/lib/plymouth/themes/ozonos-plymouth-theme/ozonos-plymouth-theme.script
